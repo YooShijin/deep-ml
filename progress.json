@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:01:47.759Z",
+  "generated_at": "2026-10-30T00:07:02.993Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -36,9 +36,9 @@
       "url": "https://www.deep-ml.com/problems/3",
       "path": "problems/0003-reshape-matrix",
       "first_solved_at": "2026-10-30T00:01:47.143Z",
-      "last_pushed_at": "2026-10-30T00:01:47.143Z",
+      "last_pushed_at": "2026-10-30T00:07:02.218Z",
       "language": "python",
-      "lines": 17
+      "lines": 8
     }
   }
 }
