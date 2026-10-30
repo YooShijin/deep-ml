@@ -11,7 +11,12 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
         (i.e., determinant equals zero)
     """
     # Your code here
-    a = np.array(matrix)
-    if np.linalg.det(a) == 0:
+    a = [row[:] for row in matrix]
+    det = matrix[0][0]*matrix[1][1] - matrix[0][1]*matrix[1][0]
+    if(det == 0):
         return 'None'
-    return np.linalg.inv(a)
+    a[0][0] = matrix[1][1]/det;
+    a[1][1] = matrix[0][0]/det;
+    a[1][0] = -matrix[1][0]/det;
+    a[0][1] = -matrix[0][1]/det;
+    return a
