@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:44:46.658Z",
+  "generated_at": "2026-11-13T20:59:03.241Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-11-13T20:44:45.842Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:1994": {
+      "kind": "problem",
+      "id": "1994",
+      "title": "Run the Digit Network Forward",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1994",
+      "path": "problems/1994-run-the-digit-network-forward",
+      "first_solved_at": "2026-11-13T20:59:02.570Z",
+      "last_pushed_at": "2026-11-13T20:59:02.570Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
