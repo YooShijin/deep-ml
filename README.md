@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-14 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-13 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-14 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-14 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-29 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-10-30 | [solution](problems/0003-reshape-matrix) |
 | [Run the Digit Network Forward](https://www.deep-ml.com/problems/1994) | easy | 2026-11-13 | [solution](problems/1994-run-the-digit-network-forward) |
